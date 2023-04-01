@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193914033890",
+    "project_id": "coderscombo-version-4",
+    "storage_bucket": "coderscombo-version-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193914033890:android:d057248ce2492f9350f0bb",
+        "android_client_info": {
+          "package_name": "com.example.coderscombo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193914033890-b79p1ollj75chnurqk4cf775cnme33t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVWk9uC5WT2yG770SSCE3Mf6V0XQkUFNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193914033890-b79p1ollj75chnurqk4cf775cnme33t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
